@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://oscarvx00.github.io/vx-page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
