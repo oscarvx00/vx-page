@@ -2,12 +2,24 @@
 
 .top_logo {
   width: 100%;
-  height: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .top_logo_video {
   object-fit: cover;
   width: 100%;
-  height: 100%;
+  height: 100vh;
+}
 
+.card_section {
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
 }
